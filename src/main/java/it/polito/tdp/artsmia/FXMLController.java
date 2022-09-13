@@ -1,5 +1,5 @@
 /**
- * Sample Skeleton for 'Scene.fxml' Controller Class
+  * Sample Skeleton for 'Scene.fxml' Controller Class
  */
 
 package it.polito.tdp.artsmia;
