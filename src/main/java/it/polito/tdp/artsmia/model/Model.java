@@ -19,6 +19,7 @@ public class Model {
 	private Graph<ArtObject,DefaultWeightedEdge> grafo; 
 	private ArtsmiaDAO dao;
 	private Map<Integer, ArtObject> idMap;
+	private Map<Integer, ArtObject> idDaCancellare;
 	
 	public Model () {
 		dao = new ArtsmiaDAO();
